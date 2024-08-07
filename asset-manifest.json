@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/upasanaPortfolio/static/css/main.a41f3b4f.css",
+    "main.js": "/upasanaPortfolio/static/js/main.5ba4d992.js",
+    "static/js/453.69d42a7d.chunk.js": "/upasanaPortfolio/static/js/453.69d42a7d.chunk.js",
+    "static/media/Manrope-Regular.ttf": "/upasanaPortfolio/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "static/media/Manrope-Bold.ttf": "/upasanaPortfolio/static/media/Manrope-Bold.47f6d7143da9d8c0e480.ttf",
+    "static/media/Manrope-Light.ttf": "/upasanaPortfolio/static/media/Manrope-Light.2bf511c25636c7d7a4ce.ttf",
+    "static/media/yoga.min.svg": "/upasanaPortfolio/static/media/yoga.min.cea99ce8e846d21ca6d53dfb940f02be.svg",
+    "index.html": "/upasanaPortfolio/index.html",
+    "main.a41f3b4f.css.map": "/upasanaPortfolio/static/css/main.a41f3b4f.css.map",
+    "main.5ba4d992.js.map": "/upasanaPortfolio/static/js/main.5ba4d992.js.map",
+    "453.69d42a7d.chunk.js.map": "/upasanaPortfolio/static/js/453.69d42a7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41f3b4f.css",
+    "static/js/main.5ba4d992.js"
+  ]
+}
